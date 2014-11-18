@@ -32,7 +32,7 @@ public class Permute{
 	}
 	public static void main(String[] args){
 		
-		String s = "anara";
+		String s = "abrakadabra";
 		permute(s);
 		
 		for (int j = 0; j < list.size(); j++)
