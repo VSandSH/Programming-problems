@@ -1,4 +1,4 @@
-public class QuickSearch{
+public class QuickSort{
 		
 		public static void quickSort(int[] arr, int low, int high){
 			if (arr == null || arr.length == 0)
